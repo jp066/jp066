@@ -26,5 +26,5 @@
 🚀 [Calculadora em flutter](https://github.com/jp066/calculadora_em_flutter) <br>
         1. **CONCLUIDO** <br>
 
-🚀 [Calculadora em python => utilizando tkinter]([(https://github.com/jp066/calculadora_em_python])) <br>
+🚀 [Calculadora em python => utilizando tkinter](https://github.com/jp066/calculadora_em_python) <br>
         1. **CONCLUIDO** <br>
