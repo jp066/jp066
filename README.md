@@ -18,7 +18,7 @@
 ## Principais projetos/estudos pessoais:
 
 🚀 [SOS Central => app em flutter](https://github.com/jp066/SOS_Central) <br>
-         1. **Em andamento** <br>
+         1. **EM ANDAMENTO** <br>
          
 🚀[Clone do instagram com chatbot](https://github.com/jp066/Clone_instagram-With-ChatBot_API) <br>
          1. **CONCLUIDO** <br>
@@ -26,3 +26,5 @@
 🚀 [Calculadora em flutter](https://github.com/jp066/calculadora_em_flutter) <br>
         1. **CONCLUIDO** <br>
 
+🚀 [Calculadora em python => utilizando tkinter]([https://github.com/jp066/calculadora_em_flutter](https://github.com/jp066/calculadora_em_python)) <br>
+        1. **CONCLUIDO** <br>
