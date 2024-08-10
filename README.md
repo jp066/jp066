@@ -1,6 +1,6 @@
 # Olá, pessoal. João Pedro aqui 👋
 
-⚡ Estudo Backend web com python e posteriormente pretendo estudar para desenvolcimento android/mobile.
+⚡ Estudo Backend com python e posteriormente pretendo estudar para desenvolcimento android/mobile.
 
 💬 Me encontre também em: <br>  
 <a href="mailto:jpedro030506@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -12,7 +12,7 @@
 
 - 📚 Estou focado em aprender desenvolvimento backend. Tenho explorado diferentes frameworks e bibliotecas para criar aplicativos e sistemas.
 
-- 📱 Além disso, comecei a estudar sobre o desenvolvimento mobile com Dart e o framework Flutter, e um pouco de kotlin.
+- 📱 Além disso, comecei a estudar sobre o desenvolvimento mobile com Dart e o framework Flutter, e um pouco de Swift.
 
 
 ## Principais projetos/estudos pessoais:
