@@ -37,11 +37,7 @@
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/jp066/jp066/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 ## Principais projetos/estudos pessoais:
