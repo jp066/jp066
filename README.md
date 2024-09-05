@@ -48,6 +48,8 @@
 <img src="https://raw.githubusercontent.com/jp066/jp066/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
 ## Principais projetos/estudos pessoais:
 
 🚀 [SOS Central => app em flutter](https://github.com/jp066/SOS_Central) <br>
