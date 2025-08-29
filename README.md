@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" height="30" alt="nextJs logo"  />
   <img width="12" />
-  <img src="https://github.com/langchain-ai/langchain/blob/master/docs/static/img/logo-dark.svg" height="30" alt="css3 logo"  />
+  <img src="https://github.com/langchain-ai/langchain/blob/master/docs/static/img/logo-dark.svg" height="30" alt="langchain logo"  />
 </div>
 
 ###
