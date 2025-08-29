@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" height="30" alt="nextJs logo"  />
   <img width="12" />
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACPTkDJAAAAZUlEQVRIDe2VMQoAMAgDa9/g/1/oIzrpZBCh2dLFkkoDF0Fz99OdiOjks+2/7S8fRRmMMIVoRGSoYzvvqF8ZIMKlC1GhQBc6IkPzq32QmdAzkEGihpWOSPsAss8HegYySNSw0hE9WQ4StafZFqkAAAAASUVORK5CYII=" height="30" alt="css3 logo"  />
+  <img src="https://github.com/langchain-ai/langchain/blob/master/docs/static/img/logo-dark.svg" height="30" alt="css3 logo"  />
 </div>
 
 ###
