@@ -20,7 +20,9 @@
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" height="30" alt="expressJs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" height="30" alt="nestJs logo"  />
+  <img src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" height="30" alt="react logo"  />
+  <img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" height="30" alt="nextJs logo"  />
 </div>
 
 ###
