@@ -16,6 +16,8 @@
   <img width="12" />
   <img src="https://static.cdnlogo.com/logos/j/44/javascript.svg" height="30" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://static.cdnlogo.com/logos/t/96/typescript.svg" height="30" alt="typescript logo">
+  <img width="12" />
   <img src="https://static.cdnlogo.com/logos/n/56/nodejs-icon_800.png" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" height="30" alt="expressJs logo"  />
