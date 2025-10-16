@@ -14,13 +14,13 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://static.cdnlogo.com/logos/j/44/javascript.svg" height="30" alt="javascript logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" height="30" alt="TensorFlow logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" height="30" alt="SciKit-learn logo"  />
   <img width="12" />
   <img src="https://static.cdnlogo.com/logos/t/96/typescript.svg" height="30" alt="typescript logo">
   <img width="12" />
   <img src="https://static.cdnlogo.com/logos/n/56/nodejs-icon_800.png" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" height="30" alt="expressJs logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" height="30" alt="nestJs logo"  />
   <img width="12" />
@@ -28,7 +28,7 @@
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" height="30" alt="nextJs logo"  />
   <img width="12" />
-  <img src="https://github.com/langchain-ai/langchain/blob/master/docs/static/img/logo-dark.svg" height="30" alt="langchain logo"  />
+  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/d0dd1b30d1e3cb2a41510529554e6c75c7c35b2b/.github/images/logo-dark.svg" height="30" alt="langchain logo"  />
 </div>
 
 ###
