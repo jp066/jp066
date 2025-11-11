@@ -12,7 +12,7 @@
 ###
 
 <div align="left">
-  <h1> Dados </h1>
+  <h1> Data, Machine Learning & AI </h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" height="60" alt="TensorFlow logo"  />
@@ -37,7 +37,7 @@
 
 ###
 
-<h1> Redes Sociais </h1>
+<h1> Network </h1>
 
 <div align="left">
   <a href="https://www.instagram.com/jpedrooliveir4/" target="_blank">
