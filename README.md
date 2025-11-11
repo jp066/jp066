@@ -28,9 +28,11 @@
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" height="30" alt="nestJs logo"  />
   <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" height="30" alt="FastApi logo"  />
+  <img width="12" />
+  <h1> Frontend </h1>
   <img src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" height="30" alt="nextJs logo"  />
 </div>
 
 ###
