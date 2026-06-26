@@ -1,39 +1,101 @@
-<br clear="both">
+<h1 align="center">
+  João Pedro Matos
+</h1>
 
-<h1 align="left">Hi! My name is joão pedro and I'm a developer backend</h1>
+<h3 align="center">
+Backend Software Engineer • AI & Distributed Systems
+</h3
 
-###
+---
+
+## About Me
+
+- Software Enginner
+- Computer Science student
+- Backend-focused Software Engineer
+- Interested in Distributed Systems, DevOps and Machine Learning
+- Currently working with build systems scalable, automation and AI agents
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jp066&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jp066&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jp066&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp066&layout=compact&theme=tokyonight"/>
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://static.cdnlogo.com/logos/n/56/nodejs-icon_800.png" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png" height="30" alt="Go logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" height="30" alt="FastApi logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1920px-Svelte_Logo.svg.png" height="30" alt="react logo"  />
-  <img width="12" />
-</div>
+## Tech Stack
 
-###
+### Languages
 
-<h1> Network </h1>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+</p>
 
-<div align="left">
-  <a href="https://www.instagram.com/jpedrooliveir4/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="jpedro030506@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/joao-pedro-matos-dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+### Backend
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="45"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
+</p>
+
+### DevOps
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+</p>
+
+---
+
+## Featured Projects
+
+- AI Agents with LangGraph
+- Backend APIs with Go
+- FastAPI Microservices
+- Automation & Integrations
+
+---
+
+## Connect with me
+
+<p>
+
+<a href="https://www.linkedin.com/in/joao-pedro-matos-dev/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jpedro030506@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/jpedrooliveir4/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+Always learning. Always building.
+</p>
