@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="left">Hi 👋! My name is joão pedro and I'm a developer backend and data/ml student</h1>
+<h1 align="left">Hi! My name is joão pedro and I'm a developer backend</h1>
 
 ###
 
@@ -12,26 +12,13 @@
 ###
 
 <div align="left">
-  <h1> Data, Machine Learning & AI </h1>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" height="60" alt="TensorFlow logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" height="60" alt="SciKit-learn logo"  />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/d0dd1b30d1e3cb2a41510529554e6c75c7c35b2b/.github/images/logo-dark.svg" height="30" alt="langchain logo"  />
-  <h1> Backend </h1>
-  <img src="https://static.cdnlogo.com/logos/t/96/typescript.svg" height="30" alt="typescript logo">
-  <img width="12" />
   <img src="https://static.cdnlogo.com/logos/n/56/nodejs-icon_800.png" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" height="30" alt="nestJs logo"  />
+  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png" height="30" alt="Go logo"  />
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" height="30" alt="FastApi logo"  />
   <img width="12" />
-  <h1> Frontend </h1>
-  <img src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" height="30" alt="react logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1920px-Svelte_Logo.svg.png" height="30" alt="react logo"  />
   <img width="12" />
 </div>
 
