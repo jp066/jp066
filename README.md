@@ -42,6 +42,13 @@ Backend Software Engineer • AI & Distributed Systems
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
 </p>
 
+### tools
+
+<p>
+<img src="https://images.icon-icons.com/2415/PNG/512/redis_original_wordmark_logo_icon_146369.png" height="45"/>
+<img src="https://download.logo.wine/logo/RabbitMQ/RabbitMQ-Logo.wine.png" height="85"/>
+</p>
+
 ### DevOps
 
 <p>
