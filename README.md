@@ -31,9 +31,9 @@ Backend Software Engineer • AI & Distributed Systems
 ### Backend
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/go-chi/chi@master/_examples/chi.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45"/>
 </p>
 
 ### Database
@@ -42,7 +42,7 @@ Backend Software Engineer • AI & Distributed Systems
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
 </p>
 
-### tools
+### Tools
 
 <p>
 <img src="https://images.icon-icons.com/2415/PNG/512/redis_original_wordmark_logo_icon_146369.png" height="45"/>
