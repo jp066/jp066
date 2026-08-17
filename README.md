@@ -3,18 +3,18 @@
 </h1>
 
 <h3 align="center">
-Backend Software Engineer • AI & Distributed Systems
-</h3
+Backend Software Engineer
+</h3>
 
 ---
 
 ## About Me
 
-- Software Enginner
-- Computer Science student
-- Backend-focused Software Engineer
-- Interested in Distributed Systems, DevOps and Machine Learning
-- Currently working with build systems scalable, automation and AI agents
+* Software Engineer
+* Backend-focused developer
+* Currently working with TypeScript & NestJS, and learning Java's ecosystem.
+* Interested in Distributed Systems, DevOps and Machine Learning
+* Exploring AI agents, automation and scalable backend systems
 
 ---
 
@@ -23,17 +23,16 @@ Backend Software Engineer • AI & Distributed Systems
 ### Languages
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" height="55"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/go-chi/chi@master/_examples/chi.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/960px-Spring_Boot.svg.png" height="45"/>
 </p>
 
 ### Database
@@ -62,10 +61,11 @@ Backend Software Engineer • AI & Distributed Systems
 
 ## Featured Projects
 
-- AI Agents with LangGraph
-- Backend APIs with Go
-- FastAPI Microservices
-- Automation & Integrations
+* AI Agents with LangGraph
+* Scalable Backend APIs with NestJS
+* Backend Services with Go
+* FastAPI Microservices
+* Automation & Integrations
 
 ---
 
